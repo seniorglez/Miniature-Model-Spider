@@ -1,0 +1,62 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.env/
+.venv/
+ENV/
+env.bak/
+*.egg-info/
+
+# Logs and database files
+*.log
+*.sqlite3
+*.db
+
+# Scrapy output files
+output.json
+output.csv
+output.xml
+
+# OS generated files
+.DS_Store
+Thumbs.db
+*.swp
+.swo
+*.bak
+
+# IDE specific files
+.idea/
+.vscode/
+*.iml
+*.sublime*
+
+# Build artifacts
+dist/
+build/
+
+# Python distribution files
+*.egg
+*.wheel
+
+# Temporary files
+*.tmp
+*.temp
+*.~ 
+*.orig
+
+# Coverage and test reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+coverage.xml
+*.cover
+.cache
+.pytest_cache/
+nosetests.xml
+test-reports/
